@@ -4,7 +4,7 @@
 
 **Welcome to OM-Harmonist (Beta Version)**
 
-OM-Harmonist is a library for OpenMusic developed in Common Lisp. It is primarily designed for automatic part-writing and harmonic analysis, along with several auxiliary functions.
+OM-Harmonist is a library for OpenMusic developed in Common Lisp. It is primarily designed for automatic part-writing and harmonic analysis, along with several auxiliary functions. You can download the tutorial handbook [here](./docs/OM-Harmonist-Tutorials.pdf)
 
 **Author:** Hangzhong Lian (https://soundcloud.com/hangzhonglian)
 
